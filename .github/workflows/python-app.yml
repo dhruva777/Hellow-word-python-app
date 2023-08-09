@@ -16,7 +16,7 @@ jobs:
         python-version: 3.x
 
     - name: Run Python script
-      run: python hellow.py
+      run: python hellow.py/hellow.py
 
 
 
